@@ -18,6 +18,10 @@
     align-items: center;
     justify-content: flex-end;
 
+    li {
+      list-style-type: none;
+    }
+
     .nav-link {
       padding: 10px 15px;
       cursor: pointer;
